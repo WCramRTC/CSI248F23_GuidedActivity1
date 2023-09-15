@@ -15,7 +15,7 @@ We will complete this assignment together in class. If you are having problems w
 2. Make note of the folder where you cloned the repository
 3. After you have cloned this repository navigate to your local repository using the cd command
 4. Open the repository in Visual Studio Code by typing code .
-5. Open the terminal in Visual Studio Code by hitting `ctrl + ` ` or `cmd + ` ` on mac
+5. Open the terminal in Visual Studio Code by hitting ctrl + \` or cmd + \` on mac
 6. Create a new folder called ScreenShots
 7. Take a screenshot of your Visual Studio Code and Terminal Window and save in it your Screenshots folder
 8. use cd .. to back out of the screenshots folder
