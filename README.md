@@ -19,15 +19,14 @@ We will complete this assignment together in class. If you are having problems w
 6. Create a new folder called ScreenShots ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/1a57771e-4ed9-4e5d-8a7b-cad1d8139b2f)
 
 7. Take a screenshot of your Visual Studio Code and Terminal Window and save in it your Screenshots folder
-8. use cd .. to back out of the screenshots folder
-9. Type touch hello.txt (windows new-item hello.txt) to create a new file
-10. You will see this file inside of Visual Studio code
-11. Inside of the file type your name and save the file
-12. Go back to the terminal and type cat hello.txt
-13. Take a screenshot of the output and save the file inside of the screenshots folder.
-14. Type git add . to stage all updated files
-15. Type git commit -m "Part 1 Complete"
-16. Type git push to push the changes to GitHub
+8. Type touch hello.txt (windows new-item hello.txt) to create a new file
+9. You will see this file inside of Visual Studio code
+10. Inside of the file type your name and save the file
+11. Go back to the terminal and type cat hello.txt
+12. Take a screenshot of the output and save the file inside of the screenshots folder.
+13. Type git add . to stage all updated files
+14. Type git commit -m "Part 1 Complete"
+15. Type git push to push the changes to GitHub
 
 ## Guided Activity Part 2 Node NVM and Node
 
