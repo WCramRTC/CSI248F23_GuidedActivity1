@@ -22,7 +22,8 @@ We will complete this assignment together in class. If you are having problems w
 8. Type new-item hello.txt (Mac: touch hello.txt) to create a new file
 9. You will see this file inside of Visual Studio code
 10. Inside of the file type your name and save the file
-11. Go back to the terminal and type cat hello.txt
+11. Go back to the terminal and type cat hello.txt ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/21175413-3067-4a5d-8e6e-4b6c1d8975e1)
+
 12. Take a screenshot of the output and save the file inside of the screenshots folder.
 13. Type git add . to stage all updated files
 14. Type git commit -m "Part 1 Complete"
