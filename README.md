@@ -1,17 +1,21 @@
-# Renton Technical College CSI-244
+# Renton Technical College CSI-248
 <br />    
 
 <div align="center">  
     <img src="logo.jpg" alt="Logo">
-    <h3 align="center">Weekly Example Code</h3>
+    <h3 align="center">Guided Activity 1</h3>
 </div>
 
-This repository is a part of CSI-244 at Renton Technical College. This repo will be updated after each class with example code from the lectures.
+This repository is a part of CSI-248 at Renton Technical College.
 
-## How to access the example code
+## Guided Activity 1
+We will complete this assignment together in class. If you are having problems with this assignment please refer to the lecture recording.
 
-1. You can browse this repository in browser and refer to any of the files when completing the assignments or if your code did not work in class.
-2. If you would like you can also either clone or fork this repository to have a local backup on your machine.
-3. If you do this make sure to keep this copy up to date as this repository will be updated after each class.
+1. Clone the repository to your local machine. (Do not use OneDrive for assignments in this course!)
+2. Make note of the folder where you cloned the repository
+3. After you have cloned this repository navigate to your local repository using the terminal (powershell on windows)
+4. 
+
+
 
 Feel free to message your instructor or the TA on Canvas if you have any questions.
