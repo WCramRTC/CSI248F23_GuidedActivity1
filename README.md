@@ -16,7 +16,8 @@ We will complete this assignment together in class. If you are having problems w
 3. After you have cloned this repository navigate to your local repository using the cd command
 4. Open the repository in Visual Studio Code by typing code .
 5. Open the terminal in Visual Studio Code by hitting ctrl + \` or cmd + \` on mac
-6. Create a new folder called ScreenShots
+6. Create a new folder called ScreenShots ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/1a57771e-4ed9-4e5d-8a7b-cad1d8139b2f)
+
 7. Take a screenshot of your Visual Studio Code and Terminal Window and save in it your Screenshots folder
 8. use cd .. to back out of the screenshots folder
 9. Type touch hello.txt (windows new-item hello.txt) to create a new file
