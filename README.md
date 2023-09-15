@@ -19,7 +19,7 @@ We will complete this assignment together in class. If you are having problems w
 6. Create a new folder called ScreenShots
 7. Take a screenshot of your Visual Studio Code and Terminal Window and save in it your Screenshots folder
 8. use cd .. to back out of the screenshots folder
-9. Type touch hello.txt to create a new file
+9. Type touch hello.txt (windows new-item hello.txt) to create a new file
 10. You will see this file inside of Visual Studio code
 11. Inside of the file type your name and save the file
 12. Go back to the terminal and type cat hello.txt
@@ -48,6 +48,21 @@ We will complete this assignment together in class. If you are having problems w
 2. Name the package firstnodeproject
 3. You can simply hit enter for all of the additional options
 4. Notice that a package.json file is created
+5. package.json defines the entry point of the application as well as an dependencies the project may have
+6. Notice that index.js is defined as main, or the entry point
+7. Lets create an index.js file
+8. Type touch index.js (windows: new-item index.js)
+9. Open index.js in Visual Studio code and add console.log("Node project running"); and save the file
+10. Now let's tell Node to run index.js when we start the project
+11. Open package.json and replace the entry under scripts "test": "echo \"Error: no test specified\" && exit 1" with "start" : "node index.js"
+12. Save the file
+13. Now run npm start from the terminal. You should see Node Project Running printed to the console.
+14. Take a screenshot of the output and add to the screenshots folder.
+15. Type git add . to stage all updated files
+16. Type git commit -m "Guided Acticity 1 Complete"
+17. Type git push
+
+If you have any questions about this assignment please reach out to myself or our TA for this course. 
 
 
 
