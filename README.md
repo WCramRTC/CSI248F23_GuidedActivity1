@@ -19,7 +19,7 @@ We will complete this assignment together in class. If you are having problems w
 6. Create a new folder called ScreenShots ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/1a57771e-4ed9-4e5d-8a7b-cad1d8139b2f)
 
 7. Take a screenshot of your Visual Studio Code and Terminal Window and save in it your Screenshots folder
-8. Type touch hello.txt (windows new-item hello.txt) to create a new file
+8. Type new-item hello.txt (Mac: touch hello.txt) to create a new file
 9. You will see this file inside of Visual Studio code
 10. Inside of the file type your name and save the file
 11. Go back to the terminal and type cat hello.txt
