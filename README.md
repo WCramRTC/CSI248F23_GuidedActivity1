@@ -26,8 +26,9 @@ We will complete this assignment together in class. If you are having problems w
 
 12. Take a screenshot of the output and save the file inside of the screenshots folder.
 13. Type git add . to stage all updated files
-14. Type git commit -m "Part 1 Complete"
-15. Type git push to push the changes to GitHub
+14. Type git status to view all staged files
+15. Type git commit -m "Part 1 Complete"
+16. Type git push to push the changes to GitHub
 
 ## Guided Activity Part 2 Node NVM and Node
 
