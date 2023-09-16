@@ -1,0 +1,11 @@
+{
+  "name": "firstnodeproject",
+  "version": "1.0.0",
+  "description": "<br />",
+  "main": "helloworld.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
