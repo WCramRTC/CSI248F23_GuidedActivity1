@@ -51,19 +51,27 @@ We will complete this assignment together in class. If you are having problems w
 
 ## Guided Activity Part 2 NPM
 1. From the terminal type `npm init` (this creates a new node project)
-2. Name the package firstnodeproject.
-3. You can simply hit enter for all of the additional options.
-4. Notice that a package.json file is created.
+2. Name the package firstnodeproject. ![Guided Activity Part 2 NPM - Step 2](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/92062331-5043-4bd4-b404-3fdada89ff08)
+
+3. You can simply hit enter for all of the additional options. ![Guided Activity Part 2 NPM - Step 3](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/ff67983c-1982-404c-b6c7-0fc15f38ee81)
+
+4. Notice that a package.json file is created. 
 5. package.json defines the entry point of the application as well as an dependencies the project may have.
-6. Notice that index.js is defined as main, or the entry point.
+6. Notice that helloworld.js is defined as main, or the entry point. ![Guided Activity Part 2 NPM - Step 6](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/db29fded-8c28-4e28-bedf-075d385c90b2)
+
 7. Lets create an index.js file.
-8. For Windows, type `new-item index.js`.  For Mac, type `touch index.js`.
-9. Open index.js in Visual Studio code and add `console.log("Node project running");` and save the file.
+8. For Windows, type `new-item index.js`.  For Mac, type `touch index.js`. ![Guided Activity Part 2 NPM - Step 8](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/dd24f55e-79f9-4fca-bbd8-d18b9ce2a456)
+
+9. Open index.js in Visual Studio code and add `console.log("Node project running");` and save the file. ![Guided Activity Part 2 NPM - Step 9](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/ef76cf5e-c064-4553-9d16-d9d937dfa644)
+
 10. Now let's tell Node to run index.js when we start the project.
-11. Open package.json and replace the entry under scripts "test": "echo \"Error: no test specified\" && exit 1" with "start" : "node index.js"
+11. Open package.json and replace the entry under scripts `"test": "echo \"Error: no test specified\" && exit 1"` with `"start" : "node index.js"`. ![Guided Activity Part 2 NPM - Step 11](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/1a728543-02f1-4b51-a765-764e4c4cce98)
+
 12. Save the file.
-13. Now run npm start from the terminal. You should see Node Project Running printed to the console.
-14. Take a screenshot of the output and add to the screenshots folder.
+13. Now run npm start from the terminal. You should see Node Project Running printed to the console. ![Guided Activity Part 2 NPM - Step 13](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/0fa17b5e-0e99-42cd-966e-83ee5509b7f8)
+
+14. Take a screenshot of the output and add to the screenshots folder. ![Guided Activity Part 2 NPM - Step 14](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/b7a93d29-aab5-48cf-adf1-efc8f3638e53)
+
 15. Type `git add .` to stage all updated files.
 16. Type `git commit -m "Guided Acticity 1 Complete"`.
 17. Type `git push`.
