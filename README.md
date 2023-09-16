@@ -14,32 +14,32 @@ We will complete this assignment together in class. If you are having problems w
 1. Clone the repository to your local machine. (Do not use OneDrive for assignments in this course!)
 2. Make note of the folder where you cloned the repository
 3. After you have cloned this repository navigate to your local repository using the cd command
-4. Open the repository in Visual Studio Code by typing code . ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/e9c402d6-ac7c-41e3-a383-0ef2c26b0cb9)
+4. Open the repository in Visual Studio Code by typing `code .` ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/e9c402d6-ac7c-41e3-a383-0ef2c26b0cb9)
 
-5. Open the terminal in Visual Studio Code by hitting ctrl + \` or cmd + \` on mac
+5. Open the terminal in Visual Studio Code by hitting ctrl + \` or cmd + \` on mac. 
 6. Create a new folder called ScreenShots ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/1a57771e-4ed9-4e5d-8a7b-cad1d8139b2f)
 
 7. Take a screenshot of your Visual Studio Code and Terminal Window and save in it your Screenshots folder
-8. Type new-item hello.txt (Mac: touch hello.txt) to create a new file
+8. For Windows, type `new-item hello.txt` to create a new file.  For Mac, type `touch hello.txt`
 9. You will see this file inside of Visual Studio code
 10. Inside of the file type your name and save the file
-11. Go back to the terminal and type cat hello.txt ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/21175413-3067-4a5d-8e6e-4b6c1d8975e1)
+11. Go back to the terminal and type `cat hello.txt` ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/21175413-3067-4a5d-8e6e-4b6c1d8975e1)
 
 12. Take a screenshot of the output and save the file inside of the screenshots folder.
-13. Type git add . to stage all updated files
-14. Type git status to view all staged files
-15. Type git commit -m "Part 1 Complete"
-16. Type git push to push the changes to GitHub
+13. Type `git add .` to stage all updated files
+14. Type `git status` to view all staged files
+15. Type `git commit -m "Part 1 Complete"`
+16. Type `git push` to push the changes to GitHub
 
 ## Guided Activity Part 2 Node NVM and Node
 
 1. Install NVM for your operating system. Windows users (https://github.com/coreybutler/nvm-windows/releases/download/1.1.11/nvm-setup.exe) Mac Users: https://dev.to/ajeetraina/how-to-install-and-configure-nvm-on-mac-os-5fgi
 2. Once NVM is installed type nvm at your terminal. You should see a list of commands
-3. Type nvm install latest - This will install the latest version of NodeJS on your machine
-4. Type nvm use latest, take a screenshot of the output and add to the screenshots folder
+3. Type `nvm install latest` - This will install the latest version of NodeJS on your machine
+4. Type `nvm use latest`, take a screenshot of the output and add to the screenshots folder
 5. With the latest version of NodeJS added you should now be able to run Nodel commands from the terminal
-6. Type node --version, take a screenshot of the output and add to the screenshots folder
-7. With node installed, lets try it out. Type touch hellworld.js to create a new file
+6. Type `node --version`, take a screenshot of the output and add to the screenshots folder
+7. With node installed, lets try it out. For Windows, type `new-item helloworld.js` to create a new file.  For Mac, type `touch hellworld.js` to create a new file.
 8. Inside of that file in Visual Studio Code add console.log("Hello World"); to the file and save it
 9. Now from the terminal run node helloworld.js, Take a screenshot of the output and save to the screenshots folder.
 10. Type git add . to stage all updated files
