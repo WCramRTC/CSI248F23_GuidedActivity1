@@ -14,7 +14,8 @@ We will complete this assignment together in class. If you are having problems w
 1. Clone the repository to your local machine. (Do not use OneDrive for assignments in this course!)
 2. Make note of the folder where you cloned the repository
 3. After you have cloned this repository navigate to your local repository using the cd command
-4. Open the repository in Visual Studio Code by typing code .
+4. Open the repository in Visual Studio Code by typing code . ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/e9c402d6-ac7c-41e3-a383-0ef2c26b0cb9)
+
 5. Open the terminal in Visual Studio Code by hitting ctrl + \` or cmd + \` on mac
 6. Create a new folder called ScreenShots ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/1a57771e-4ed9-4e5d-8a7b-cad1d8139b2f)
 
