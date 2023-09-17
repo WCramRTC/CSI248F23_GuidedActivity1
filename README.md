@@ -73,7 +73,7 @@ We will complete this assignment together in class. If you are having problems w
 14. Take a screenshot of the output and add to the screenshots folder. ![Guided Activity Part 2 NPM - Step 14](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/b7a93d29-aab5-48cf-adf1-efc8f3638e53)
 
 15. Type `git add .` to stage all updated files.
-16. Type `git commit -m "Guided Acticity 1 Complete"`.
+16. Type `git commit -m "Guided Activity 1 Complete"`.
 17. Type `git push`.
 
 If you have any questions about this assignment please reach out to myself or our TA for this course. 
