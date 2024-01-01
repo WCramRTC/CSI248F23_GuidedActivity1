@@ -1,10 +1,7 @@
 # Renton Technical College CSI-248
 <br />    
 
-<div align="center">  
-    <img src="logo.jpg" alt="Logo">
-    <h3 align="center">Guided Activity 1</h3>
-</div>
+![Alt text](Images/logo.jpg)
 
 This repository is a part of CSI-248 at Renton Technical College.
 
@@ -14,10 +11,10 @@ We will complete this assignment together in class. If you are having problems w
 1. Clone the repository to your local machine. (Do not use OneDrive for assignments in this course!)
 2. Make note of the folder where you cloned the repository.
 3. After you have cloned this repository navigate to your local repository using the cd command.
-4. Open the repository in Visual Studio Code by typing `code .`. ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/e9c402d6-ac7c-41e3-a383-0ef2c26b0cb9)
+4. Open the repository in Visual Studio Code by typing `code .`. ![Alt text](Images/1_4.png)
 
 5. Open the terminal in Visual Studio Code by hitting ctrl + \` or cmd + \` on mac. 
-6. Create a new folder called ScreenShots ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity1/assets/90283966/1a57771e-4ed9-4e5d-8a7b-cad1d8139b2f)
+6. Create a new folder called ScreenShots ![Alt text](Images/1_6.png)
 
 7. Take a screenshot of your Visual Studio Code and Terminal Window and save in it your Screenshots folder.
 8. For Windows, type `new-item hello.txt` to create a new file.  For Mac, type `touch hello.txt`
